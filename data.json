@@ -1,0 +1,19 @@
+{
+  "token": "NzgzMjI5NjIxMzQzNzQ4MDk4.X8XtbQ.CQBLuksZa6kHe8fl4GDR8qrPhrI", 
+  "prefix": "!",
+  "guild": "780801864530133012",
+  "ticket_category": "783228552287748097",
+  "SupportROLE": "DM Support Team",
+  "generic": {
+    "footer": "AQ City Support Team",
+    "footerURL": "https://cdn.discordapp.com/icons/715053381605130241/f6212363bd145d150c4bccaa8990f97b.png?size=1024",
+    "messages": {
+      "noPermissions": "أذونات غير صالحة",
+      "error": "خطأ غير معروف"
+    },
+    "colour": {
+      "error": "8B0000",
+      "Kahrbaa": "000000"
+    }
+  }
+}
